@@ -28,7 +28,7 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 - 💼 Specialized in Full-Stack Web Development
 - 🌍 Open to global opportunities 🌐
 - 🔭 Currently building **production-ready web applications**
-- 🌱 Learning **React, Docker & Mobile Development**
+- 🌱 Learning **React, Docker & Typescript**
 - 👯 Open to **collaborate on exciting projects** worldwide
 - 💡 Passionate about Backend Architecture, UI/UX Design & Performance Optimization
 - ⚡ **Fun fact:** I'm a professional console.log() debugger 😄
@@ -177,10 +177,9 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 ## 💻 LeetCode Journey
 
 <div align="center">
-  
-**LeetCode Profilim:** [leetcode.com/ibrahimmdef](https://leetcode.com/ibrahimmdef)
 
-<img src="https://leetcard.jacoblin.cool/ibrahimmdef?theme=dark&font=Ubuntu&ext=contest&border=0" alt="LeetCode Stats"/>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ibrahimmdef?theme=dark&font=Ubuntu&ext=heatmap)
 
 </div>
 
