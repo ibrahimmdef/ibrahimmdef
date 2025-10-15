@@ -10,7 +10,7 @@
   <a href="mailto:ibrahim@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ibrahim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/ibrahim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/your-id"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://leetcode.com/ibrahim"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 </div>
@@ -107,33 +107,28 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimmdef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmdef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim&theme=tokyonight&hide_border=true&background=0D1117" alt="ibrahim's streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimmdef&theme=tokyonight&hide_border=true&background=0D1117" alt="ibrahim's streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimmdef&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
 
-## 💻 Stack Overflow Stats
+## 📅 Contribution Calendar
 
-<div align="center">
-  <a href="https://stackoverflow.com/users/your-id">
-    <img src="https://stackoverflow-badge.vercel.app/?userID=your-id" alt="Stack Overflow Stats" />
-  </a>
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+  <img src="https://ghchart.rshah.org/39d353/ibrahimmdef"
+       alt="ibrahimmdef's GitHub Contributions" 
+       style="width:95%; max-width:1200px;"/>
 </div>
 
-<div align="center">
-  <a href="https://stackoverflow.com/users/your-id">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=your-id&theme=dark" alt="Stack Overflow Profile" />
-  </a>
-</div>
 
 ---
 
@@ -146,8 +141,8 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 <td width="50%">
 <h3 align="center">🏨 Booking System</h3>
 <div align="center">  
-<a href="https://github.com/ibrahim/booking-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahim&repo=booking-system&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/ibrahimmdef/booking-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimmdef&repo=booking-system&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <br>
 <p><strong>Node.js, Express, EJS, MSSQL</strong> - Full-stack booking management system with authentication and real-time availability</p>
@@ -157,8 +152,8 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 <td width="50%">
 <h3 align="center">💼 Portfolio Website</h3>
 <div align="center">
-<a href="https://github.com/ibrahim/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahim&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/ibrahimmdef/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimmdef&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <br>
 <p><strong>HTML, CSS, JavaScript</strong> - Personal portfolio showcasing projects and skills with modern design</p>
@@ -174,7 +169,7 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimmdef&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
 ---
@@ -182,7 +177,11 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 ## 💻 LeetCode Journey
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ibrahim?theme=dark&font=Ubuntu&ext=contest&border=0" alt="LeetCode Stats"/>
+  
+**LeetCode Profilim:** [leetcode.com/ibrahimmdef](https://leetcode.com/ibrahimmdef)
+
+<img src="https://leetcard.jacoblin.cool/ibrahimmdef?theme=dark&font=Ubuntu&ext=contest&border=0" alt="LeetCode Stats"/>
+
 </div>
 
 ---
@@ -196,7 +195,7 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 ---
 
 ### 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=ibrahim&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ibrahimmdef&color=blueviolet&style=for-the-badge)
 
 ---
 
