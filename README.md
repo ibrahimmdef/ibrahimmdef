@@ -139,24 +139,24 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🏨 Booking System</h3>
+<h3 align="center">🏨 Library System</h3>
 <div align="center">  
 <a href="https://github.com/ibrahimmdef/booking-system">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimmdef&repo=booking-system&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <br>
-<p><strong>Node.js, Express, EJS, MSSQL</strong> - Full-stack booking management system with authentication and real-time availability</p>
+<p><strong>Node.js, Express, EJS, MSSQL</strong> - Full-stack book management system </p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">💼 Portfolio Website</h3>
+<h3 align="center">💼 Blog Website</h3>
 <div align="center">
 <a href="https://github.com/ibrahimmdef/portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimmdef&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <br>
-<p><strong>HTML, CSS, JavaScript</strong> - Personal portfolio showcasing projects and skills with modern design</p>
+<p><strong>HTML, CSS, JavaScript</strong> - Personal blog showcasing projects and skills with modern design</p>
 </div>
 </td>
 </tr>
