@@ -7,10 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Frontend+%7C+Backend+%7C+Full-Stack;Node.js+%2B+Express+%2B+MSSQL;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:ibrahim@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ibrahim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ibrahim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://leetcode.com/ibrahim"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:ibrahimmdef@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ibrahimmdef"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/ibrahimmdef"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://leetcode.com/ibrahimmdef"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 </div>
@@ -67,6 +67,22 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 
 ---
 
+## 💻 Most Used Languages
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmdef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css&card_width=445&custom_title=Top%20Languages&include_all_commits=true&count_private=true"/>
+</div>
+
+<!-- Alternative: If above doesn't work properly, uncomment below
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-25%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-20%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-5%25-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+-->
+
+---
+
 ## 🎯 Learning Journey
 
 <div align="center">
@@ -76,25 +92,25 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80" />
 <br><br><strong>React.js</strong>
-<br><sub> Active Learning</sub>
+<br><sub>🟢 Active Learning</sub>
 <br><br>
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80" />
 <br><br><strong>TypeScript</strong>
-<br><sub> In Progress</sub>
+<br><sub>🟡 In Progress</sub>
 <br><br>
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80" />
 <br><br><strong>Docker</strong>
-<br><sub> Exploring</sub>
+<br><sub>🔵 Exploring</sub>
 <br><br>
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="80" height="80" />
 <br><br><strong>PostgreSQL</strong>
-<br><sub> Next Goal</sub>
+<br><sub>⚪ Next Goal</sub>
 <br><br>
 </td>
 </tr>
@@ -108,11 +124,7 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimmdef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmdef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimmdef&theme=tokyonight&hide_border=true&background=0D1117" alt="ibrahim's streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimmdef&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
 <div align="center">
@@ -123,12 +135,9 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 
 ## 📅 Contribution Calendar
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
-  <img src="https://ghchart.rshah.org/39d353/ibrahimmdef"
-       alt="ibrahimmdef's GitHub Contributions" 
-       style="width:95%; max-width:1200px;"/>
+<div align="center">
+  <img src="https://ghchart.rshah.org/3b82f6/ibrahimmdef" alt="GitHub Contributions" width="95%" style="max-width:1200px;"/>
 </div>
-
 
 ---
 
@@ -139,24 +148,26 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🏨 Library System</h3>
+<h3 align="center">📚 Library Management System</h3>
 <div align="center">  
-<a href="https://github.com/ibrahimmdef/booking-system">
+<a href="https://github.com/ibrahimmdef/booking-system" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimmdef&repo=booking-system&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
-<br>
-<p><strong>Node.js, Express, EJS, MSSQL</strong> - Full-stack book management system </p>
+<br><br>
+<p><strong>Node.js • Express • EJS • MSSQL</strong></p>
+<p>Full-stack book management system with user authentication and real-time availability tracking</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">💼 Blog Website</h3>
+<h3 align="center">🌐 Personal Blog</h3>
 <div align="center">
-<a href="https://github.com/ibrahimmdef/portfolio">
+<a href="https://github.com/ibrahimmdef/portfolio" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimmdef&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
-<br>
-<p><strong>HTML, CSS, JavaScript</strong> - Personal blog showcasing projects and skills with modern design</p>
+<br><br>
+<p><strong>HTML • CSS • JavaScript</strong></p>
+<p>Modern responsive blog showcasing projects and technical articles with clean UI</p>
 </div>
 </td>
 </tr>
@@ -174,12 +185,11 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 
 ---
 
-## 💻 LeetCode Journey
+## 💻 LeetCode Stats
 
 <div align="center">
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/ibrahimmdef?theme=dark&font=Ubuntu&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ibrahimmdef?theme=dark&font=Ubuntu&ext=heatmap)
 
 </div>
 
@@ -187,18 +197,25 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 
 <div align="center">
 
-### 💭 Dev Quote
+### 💭 Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 ---
 
 ### 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=ibrahimmdef&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ibrahimmdef&color=3b82f6&style=for-the-badge&label=Profile+Views)
 
 ---
 
-**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House**
+### 🤝 Let's Connect!
+
+**Open for collaborations and freelance opportunities**
+
+[![Email](https://img.shields.io/badge/Contact_Me-Let's_Talk-3b82f6?style=for-the-badge)](mailto:ibrahim@example.com)
+
+---
+
+**✨ "First, solve the problem. Then, write the code." - John Johnson**
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
