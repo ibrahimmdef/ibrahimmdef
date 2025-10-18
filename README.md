@@ -197,7 +197,7 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 
 <div align="center">
 
-### 💭 Daily Dev Quote
+### 💭 Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
@@ -211,11 +211,11 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 
 **Open for collaborations and freelance opportunities**
 
-[![Email](https://img.shields.io/badge/Contact_Me-Let's_Talk-3b82f6?style=for-the-badge)](mailto:ibrahim@example.com)
+[![Email](https://img.shields.io/badge/Contact_Me-Let's_Talk-3b82f6?style=for-the-badge)](mailto:ibrahimmdef@gmail.com)
 
 ---
 
-**✨ "First, solve the problem. Then, write the code." - John Johnson**
+**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House**
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
