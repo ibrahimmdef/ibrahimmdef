@@ -24,14 +24,14 @@ Hey there! I'm **Ibrahim**, a passionate **Full-Stack Developer** crafting innov
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 **About me:**
-- 🎓 Computer Science Graduate
+- 🎓 Computer engineering Graduate
 - 💼 Specialized in Full-Stack Web Development
 - 🌍 Open to global opportunities 🌐
 - 🔭 Currently building **production-ready web applications**
 - 🌱 Learning **React, Docker & Typescript**
 - 👯 Open to **collaborate on exciting projects** worldwide
 - 💡 Passionate about Backend Architecture, UI/UX Design & Performance Optimization
-- ⚡ **Fun fact:** I'm a professional console.log() debugger 😄
+
 
 <br clear="right"/>
 
